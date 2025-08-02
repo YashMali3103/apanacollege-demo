@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first repository
 <br>
-Author-Yash Mali
+Author-piyush mali
